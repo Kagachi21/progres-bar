@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar.iml" group="ProgressBar" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ProgressBar/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="progres-bar/app" />
+      <module fileurl="file://$PROJECT_DIR$/progres-bar.iml" filepath="$PROJECT_DIR$/progres-bar.iml" group="progres-bar" />
     </modules>
   </component>
 </project>
